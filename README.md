@@ -22,12 +22,10 @@ Was inpspired by  [Malik Hammad](https://github.com/mrhammaddev)'s project
 
 
 ## Permissions
-The app requires the following permissions:
+
 
 Camera: To capture images and perform OCR on them.
 Storage: To save the captured images temporarily during the OCR process.
 
-## Known Issues
-List any known issues or limitations of the app, if any.
 
   
